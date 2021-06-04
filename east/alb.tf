@@ -39,7 +39,7 @@ resource "aws_lb_listener_rule" "default" {
 
   condition {
     host_header {
-      values = ["petclinic.wahidit.live"]
+      values = ["petclinic.bibekkumarshah.com"]
     }
   }
 }
