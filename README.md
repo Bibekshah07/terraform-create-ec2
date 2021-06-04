@@ -1,1 +1,1 @@
-# terraform-create-ec2-east-
+# terraform-create-ec2
